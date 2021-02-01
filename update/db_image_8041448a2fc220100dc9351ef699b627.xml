@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="db_image">
+    <db_image action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <format>png</format>
+        <height>600</height>
+        <image/>
+        <name>cruck_2.PNG</name>
+        <size_bytes>1580</size_bytes>
+        <sys_class_name>db_image</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-01 18:39:39</sys_created_on>
+        <sys_id>8041448a2fc220100dc9351ef699b627</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>cruck_2.PNG</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>db_image_8041448a2fc220100dc9351ef699b627</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-01 18:39:39</sys_updated_on>
+        <thumbnail/>
+        <width>800</width>
+    </db_image>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#ccffff</average_image_color>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>image</file_name>
+        <hash>1791deebe429985a3c15ea744d33518e2e91b89ead3f251606b83d26f9f48bb4</hash>
+        <image_height>600</image_height>
+        <image_width>800</image_width>
+        <size_bytes>1580</size_bytes>
+        <size_compressed>1082</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-01 18:39:39</sys_created_on>
+        <sys_id>4441448a2fc220100dc9351ef699b62a</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-01 18:39:39</sys_updated_on>
+        <table_name>ZZ_YYdb_image</table_name>
+        <table_sys_id>8041448a2fc220100dc9351ef699b627</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="image" sys_id="4441448a2fc220100dc9351ef699b62a">4441448a2fc220100dc9351ef699b62a</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-01 18:39:39</sys_created_on>
+        <sys_id>8441448a2fc220100dc9351ef699b62a</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>6wzwc+flkuJiYGDg9fRwCWJgYFZgYGCK4GAGiqxdUeQEpFjSHX0dGRg29nP/SWQF8hWSPYJ8GRiq1BgYGloYGH4BhRpeMDCUGjAwvEpgYLCawcAgXjBnV6ANUKI0wCfE9f///4ZmVu7e/o8eP/7161d+camFreOp02dcPH0d3Txv37nz9+/fssqaqtoGUyu7k6dOHzh0ODw6LiUjOy0r9/TZc//+/Wtu62zt6DK2sNmzb39iasbEKdNsndxiE1M+fPxoZe9k4+j6+fPn5raO0MiYd+/ed/dO6J0wKXJdQgzQAZwFHpHFDAzcwiDMyDBrjgTQQws9XRxDKm69vRxZJGIo4HpRa8PMW2dzziScSTj8b3rHfo66qLtLg05qfJ7Dq+Gs/86EkWHIge4ztrZVMbXPb1YerfafJzWjkOkiO5Plm5l2Aiccz8e/YG4EopK3yeUL+ZvYNy3r32vHIddhJwBDC8IVfjnAUENcI0Q9GFWxLuJngaEXohia/vvL68dLTixkennveLa0kR/clG2NL5r3NO6prD5jXTvBfMJ3abmFCINYLmkL1CrA0YS4xpi6C0AH3zg+FWGBgMd8hy+NUHSLDaHXDKFxG8KtW3hd5DkgaEkuwj+5zCtfPX6s/nmC0oRVds/OW3+eoDhhl92zyvUCQixBt9udTgh41MpzKdYpZP8K4LjIHHm93alD9sQtOxGnJw7Xvi8UeMR2aRF/q4DpBLNajZYZjVteOSu68CyJBWqJU9D9HcDxkCnzVrsTh9iJ6ZVhHEwvrwLZIifYgGoNGnMuATlCJ9yAHIHGnGtAjsCJNiDnIfPNLfytBhUK0kDz2/hSPtuJHDrQWPLCWZFH2mM6kLOgsQRoDY+kx3Ygp6Gx5A2QI+5xHchJaAz5VrhWwIgl6Obx67P3OnEIntj+uun91No/M8q4FF0UpHe8Tw7iYNL8slCAJehVcqiivb6uxxmHf982rpqg3SpgNKEe6Esmza9gaWdFjiVX2p0EPFbytypMCJLnclRYaifS5OBVq8HSOAWo8CWz5reFApPYi5bwt06wmrAY6PYjjXMutDt5SJ/wBHKWNM65AeRInjgJ5LQ03rmnY+GlqML95FvexVAuxVAFbmD4rGSKvANUI+LhCgwyX4VQoEoVoCcWCgSxBN0FSgic6AKG9Q+HMKCbgGlzEzCsrSZcBao60GgCDJEW3iWeQI0ZCr2/dug/cVJs4V4SKX+5pGydQBPrpQ38rR8K6nIff4+9rC3KxNXYrnHk/dDLvAeM6hky93Z9O83XKA7kqpa4RpSkJJakWiUXpQIpBiMDQwtdQwNdQ9MQA3MrY0MrEyNdAxMrAwMpeRMlFA25+SmZaZW4NWQ79cwDahACaXCN8HSz8i/KTM0rSSzJzM9jMGyJePMe5B5PVz+XdU4JTQCh/BVJLAYAAA==</data>
+        <length>1432</length>
+        <position>1</position>
+        <sys_attachment display_value="image" sys_id="4441448a2fc220100dc9351ef699b62a">4441448a2fc220100dc9351ef699b62a</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-01 18:39:39</sys_created_on>
+        <sys_id>0841448a2fc220100dc9351ef699b62a</sys_id>
+    </sys_attachment_doc>
+</record_update>
